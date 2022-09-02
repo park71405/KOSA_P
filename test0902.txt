@@ -1,5 +1,3 @@
 첫번째 줄 입력함 version1
 두번째 줄 입력함 version2
 세번째 줄 입력함 version3
-네번째 줄 입력함 version4
-
