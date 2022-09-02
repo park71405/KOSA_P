@@ -1,1 +1,2 @@
 첫번째 줄 입력함 version1
+두번째 줄 입력함 version2
